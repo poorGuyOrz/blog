@@ -15,69 +15,6 @@ summary: "Postgres优化器代码调研"
 
 
 
-公式块:
-
-
-
-$c = \pm\sqrt{a^2 + b^2}$ 和 \\(f(x)=\int_{-\infty}^{\infty} \hat{f}(\xi) e^{2 \pi i \xi x} d \xi\\)
-
-
-$$ c = \pm\sqrt{a^2 + b^2} $$
-
-\\[ f(x)=\int_{-\infty}^{\infty} \hat{f}(\xi) e^{2 \pi i \xi x} d \xi \\]
-
-\begin{equation*}
-  \rho \frac{\mathrm{D} \mathbf{v}}{\mathrm{D} t}=\nabla \cdot \mathbb{P}+\rho \mathbf{f}
-\end{equation*}
-
-\begin{equation}
-  \mathbf{E}=\sum_{i} \mathbf{E}\_{i}=\mathbf{E}\_{1}+\mathbf{E}\_{2}+\mathbf{E}_{3}+\cdots
-\end{equation}
-
-\begin{align}
-  a&=b+c \\\\
-  d+e&=f
-\end{align}
-
-\begin{alignat}{2}
-   10&x+&3&y = 2 \\\\
-   3&x+&13&y = 4
-\end{alignat}
-
-\begin{gather}
-   a=b \\\\
-   e=b+c
-\end{gather}
-
-\begin{CD}
-   A @>a\>> B \\\\
-@VbVV @AAcA \\\\
-   C @= D
-\end{CD}
-
-
-$$ \ce{CO2 + C -> 2 CO} $$
-
-$$ \ce{Hg^2+ ->[I-] HgI2 ->[I-] [Hg^{II}I4]^2-} $$
-
-
-[Hugo]^(一个开源的静态网站生成工具)
-
-
-[浅色]/[深色]
-
-[99]/[100]
-
-
-去露营啦! :(fas fa-campground fa-fw): 很快就回来.
-
-真开心! :(far fa-grin-tears):
-
-{{< figure src="/images/lighthouse.jpg" title="Lighthouse (figure)" >}}
-
-{{< gist spf13 7896402 >}}
-
-
 ### 优化器代码细节
 
 具体的代码入口在exec_simple_query中，接受语句使用pg_parse_query编译，输出是一个list，具体的例子可以查看下面的语句，gdb中使用 `p pprint(parsetree_list)`可以打印list，对于具体的内部的数据结构，例如List,Node等，可以gdb调试pprint，可以查看他们之间的结构关系
