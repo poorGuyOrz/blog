@@ -79,3 +79,5 @@ sudo make install
 
 ## gdb 调试
 1. 使用脚本可以在gdb中打印出具体的执行计划的节点树
+
+> clang-format 禁止头文件重排序 SortIncludes: false

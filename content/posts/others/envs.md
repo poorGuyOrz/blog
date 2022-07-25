@@ -210,3 +210,15 @@ SHOW VARIABLES LIKE 'validate_password%';查看密码策略
 
 
 
+
+## Nodejs 升级
+
+安装Slidev的时候，需要升级node
+1. 清除缓存  
+`sudo npm cache clean -f`
+2. 安装版本管理工具  
+`sudo npm install n -g`
+3. 使用版本管理工具安装指定node或者升级到最新node版本  
+`sudo n stable （安装node最新版本`
+
+退出当前session，重新进入，node -v检查
