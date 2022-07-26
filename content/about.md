@@ -2,18 +2,48 @@
 title = ""
 +++
 
-# 不知名的文家二少爷
+# Esoye | **不知名的文家二少爷**
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
+95人，但二少爷的身份加上家道中落无法负担当时的超人身份注册费，所以被迫从96变为95，身份证中考时办下来，一下子从班里的小小老弟变成了小老弟😅
+心情低落下中考GG，市里第三的高中家里不让报，劝我复读，在我的坚持下最后还是去报名了，但是名额满了，无奈之下复读，这下子从小老弟变为老大哥，实现身份的阶级跃迁😂
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+凭空消失两年，我在27才工作经验3年，华为HR还就这事特意问我，还替我编理由，，，，幸好路子对了，不然GG，
+工作之后没啥大挫折，但是就是存不下钱，第一份工作入职7000，跑路时候1W，但是在二线城市，也还好。之后跑路上海，不会谈薪，但是还是实现翻倍的成绩。
 
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
+比较咸鱼，不想去啥大厂，工作倾向于965，第一份和当前的工作都是965，以后呀差不多
 
-The theme includes:
+## 学习生涯
 
-- **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
-- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
+- 小学四年级之前考试从不及格，四年级启蒙，之后就是班里的前几名，普通的小学
+- 普通的初中
+- 市第一高中
+- 普通双一流大学
 
-So, there you have it... enjoy!
+## 工作经历
+
+- (19-07 ~ 22-01) 某数据库公司内核开发
+- (22-07 ~ 22-04) 某数据库公司内核开发
+- (22-07 ~ 24-01) 某公司数据库内核开发
+
+路子对了，工作暂时还是不愁的，没有什么太惊心动魄的经历，毕业没有实习过，简历趁宣讲会的时候投了一份，就中了。之后换工作的时候由于行业的问题，基本上面了几家都过了，但是因为毕业时在上海培训过，所以去了上海，但是不得不吐槽下，面试时的岗位和实际入职的岗位还可以随便调😅也是奇葩，也怪我太随意了，他说换岗的时候我没有拒绝，干的不顺心，再加上他工作时间早10晚9，回家之后都九点半了，没怎么经历过这种作息，所以一个半月就跑路了，之后隔离关家里，直到7月才重新入职新公司，先计划工作个两三年，否则以后跳槽简历不好看  
+
+后续的计划是在这家公司继续学习PG，毕竟现在从PG开源来的数据库实在太多了，以后跑路工资也可以要高点
+
+
+## 个人技能
+
+* 语言  
+  - C/C++，吃饭的家伙
+  - GO，6.824速通一遍，只能说能看
+  - Java，能看不能写，也不想写
+  - Rust，想看但是没看
+* 数据库
+  - 之前第一份工作是一个古老的数据库，起码除了存储之外，其他的部分代码时间比我年龄还大
+  - 现在工作是PG，内核部分
+  - 看过一些论文，一些其他数据库的源码，学过CMU的课程，但是实验还没写完(停之后就懒得动了🙄这真的需要一鼓作气)，MIT的也一样
+  - 所以数据库可以扯一堆，面试的时候也是瞎扯
+
+## Blog
+
+工作的时候以及平时的文档，都是随便找个地方随手一丢，然后之后就再也找不到了，也使用onenote，notion等其他工具记录笔记，但是文档不在自己手里，且网络时不时抽风，所以体感不佳，
+网上冲浪的时候偶尔见到一些令人眼前一亮的blog，慢慢的就萌发了自己也搞一个的想发，但是三天打鱼，两天筛网，脑袋一热弄一个就丢一个，但愿这个可以坚持下来

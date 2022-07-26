@@ -3,9 +3,9 @@ title: "Postgres Optimizer"
 date: 2022-07-22T09:24:24+08:00
 draft: false
 tags: ["数据库", "Postgres", "优化器"]
-description: "本文从源码级别进行优化器的分析，对Postgres优化器代码调研"
-cover: "img/hello.jpg"
+description: "本文从源码级别进行优化器的分析，对Postgres优化器代码调研，具体包括他的数据结构，以及具体的代码架构实现以及核心算法等"
 ---
+<!-- cover: "img/hello.jpg" -->
 
 ## pg 优化器
 

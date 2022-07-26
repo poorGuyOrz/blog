@@ -2,7 +2,7 @@
 baseurl = "https://Esoye.github.io/"
 languageCode = "zh-CN"
 theme = "friend"
-paginate = 5
+paginate = 4
 
 [params]
   # dir name of your blog content (default is `content/posts`)
@@ -16,9 +16,9 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
-    keywords = ""
+    title = "Esoye"
+    subtitle = "My note blog"
+    keywords = "数据库"
     copyright = ""
     menuMore = "Show more"
     writtenBy = "Written by"
@@ -31,7 +31,7 @@ paginate = 5
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "Esoye"
       logoHomeLink = "/"
     # or
     #
