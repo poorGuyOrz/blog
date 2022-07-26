@@ -1,10 +1,8 @@
 +++
-title = "About"
-date = "2019-01-25"
-author = "Radek"
+title = ""
 +++
 
-# Hi there
+# 不知名的文家二少爷
 
 My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
 
